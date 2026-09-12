@@ -8,14 +8,14 @@ BCA Student | IoT & Robotics Enthusiast | Web Developer | Aspiring Software Engi
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adarsh-sarthak-46b14b2b7/" target="_blank">
+  <a href="[https://www.linkedin.com/in/adarsh-sarthak-46b14b2b7/](https://www.linkedin.com/in/adarsh-sarthak/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Adarsh%20Sarthak-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:abhisarthak1510@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/Adarsh21862">
-    <img src="https://img.shields.io/badge/GitHub-Adarsh21862-black?style=for-the-badge&logo=github">
+  <a href="(https://github.com/BCA-310-21862-ADARSH-SARTHAK/)">
+    <img src="https://img.shields.io/badge/GitHub-ADARSH-SARTHAK-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -49,7 +49,7 @@ I enjoy converting **ideas → working systems**, whether it’s a
 - HTML | CSS | JavaScript  
 - MERN stack
 - Express.js | React | Node.j
--  MongoDB  
+-  SQL  
 
 ### 🧩 Core Concepts
 - Object-Oriented Programming (OOP)  
@@ -125,8 +125,8 @@ I enjoy converting **ideas → working systems**, whether it’s a
 ## 🤝 Let’s Connect
 
 📧 **Email:** abhisarthak1510@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/adarsh-sarthak-46b14b2b7/  
-🐙 **GitHub:** https://github.com/Adarsh21862  
+🔗 **LinkedIn:** https://www.linkedin.com/in/adarsh-sarthak/  
+🐙 **GitHub:** https://github.com/BCA-310-21862-ADARSH-SARTHAK/  
 
 <p align="center">
 ⭐ If you like my work, consider starring my repositories!
