@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tech-banner.png" alt="Adarsh Sarthak Tech Banner" width="100%" />
+  <img src="banner.png" alt="Adarsh Sarthak Tech Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adarsh Sarthak</h1>
