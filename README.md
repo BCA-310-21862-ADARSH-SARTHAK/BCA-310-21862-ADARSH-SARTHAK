@@ -14,9 +14,7 @@ BCA Student | IoT & Robotics Enthusiast | Web Developer | Aspiring Software Engi
   <a href="mailto:abhisarthak1510@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
   </a>
- <a href="[https://www.github.com/BCA-310-21862-ADARSH-SARTHAK](https://www.github.com/BCA-310-21862-ADARSH-SARTHAK/)" target="_blank"> 
-   <img src="https://img.shields.io/badge/GitHub-ADARSH-SARTHAK-black?style=for-the-badge&logo=github"> 
- </a>
+ <a href="https://github.com/BCA-310-21862-ADARSH-SARTHAK" target="_blank"> <img src="https://img.shields.io/badge/GitHub-ADARSH--SARTHAK-black?style=for-the-badge&logo=github" alt="GitHub"> </a>
 </p>
 
 ---
